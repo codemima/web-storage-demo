@@ -5,4 +5,7 @@ A simple demo to show usage of the Web Storage API. For more detail on how it wo
 
 View the demo online: http://mdn.github.io/web-storage-demo/
 
-[http://www.codemima.com/web-storage-demo/](http://www.codemima.com/web-storage-demo/)
+web-storage-demo: [http://www.codemima.com/web-storage-demo/](http://www.codemima.com/web-storage-demo/)
+
+
+jscolor : [http://www.codemima.com/web-storage-demo/jscolor/demo.html](http://www.codemima.com/web-storage-demo/jscolor/demo.html)
